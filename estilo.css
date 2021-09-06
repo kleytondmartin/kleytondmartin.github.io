@@ -1,0 +1,22 @@
+
+body {
+  background-image: url(cool-background.png);
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+h1{
+	text-align: center;
+}
+
+p{
+	text-indent: 3ch;
+}
+
+.centralizado {
+  text-align: center;
+}
+.centralizado div {
+  display: inline-block;
+  text-align: center;
+  padding: 30px;
+}
